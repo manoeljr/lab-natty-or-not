@@ -16,7 +16,7 @@ em seguida transformamos um trecho do paper em podcast com ElevenLabs
 Olá a todos, bem-vindos ao nosso podcast! Hoje vamos falar sobre um avanço significativo no campo da visão computacional: o YOLO v10, um novo modelo para detecção de objetos em tempo real.
 
 ## Áudio do Podcast
-[MP3 do resultado](https://github.com/manoeljr/lab-natty-or-not/blob/patch-1/paper_yolo_v_10.mp3)
+[MP3 do resultado](https://github.com/manoeljr/lab-natty-or-not/blob/main/paper_yolo_v_10.mp3)
 
 ## Link do paper
 [Leia o artigo no arXiv](arxiv.org/pdf/2405.14458)
